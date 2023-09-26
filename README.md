@@ -1,6 +1,6 @@
-# ⚠️ Deprecation and Archive Notice
+# ⚠️ Fork Notice
 
-**This repo is being deprecated, please read [this issue](https://github.com/k8s-at-home/charts/issues/1761)**
+**This repo is a fork of https://github.com/k8s-at-home, please read [this issue](https://github.com/k8s-at-home/charts/issues/1761)**
 
 # Helm charts
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
